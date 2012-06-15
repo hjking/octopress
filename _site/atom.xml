@@ -4,13 +4,21 @@
  <title>HJKing</title>
  <link href="http://kinghom.github.com/atom.xml" rel="self"/>
  <link href="http://kinghom.github.com"/>
- <updated>2012-06-14T22:00:31+08:00</updated>
+ <updated>2012-06-15T09:57:00+08:00</updated>
  <id>http://kinghom.github.com</id>
  <author>
    <name>King Hung</name>
    <email>hon9jin@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>install redmine on CentOS 5</title>
+   <link href="http://kinghom.github.com/2012/06/15/install-redmine-on-centos-5"/>
+   <updated>2012-06-15T00:00:00+08:00</updated>
+   <id>http://kinghom.github.com/2012/06/15/install-redmine-on-centos-5</id>
+   <content type="html"></content>
+ </entry>
  
  <entry>
    <title>Hello world</title>

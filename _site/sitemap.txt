@@ -9,5 +9,6 @@ http://kinghom.github.com/pages/about/index.html
 http://kinghom.github.com/pages/about.html
 http://kinghom.github.com/categories.html
 
+http://kinghom.github.com/2012/06/15/install-redmine-on-centos-5
 http://kinghom.github.com/2012/06/14/hello-world
 http://kinghom.github.com/lessons/2011/12/29/jekyll-introduction
