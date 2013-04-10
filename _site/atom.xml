@@ -1,16 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>HJKing</title>
- <link href="http://kinghom.github.com/atom.xml" rel="self"/>
+ <title>HJKing Blog</title>
+ <link href="http://kinghom.github.com/" rel="self"/>
  <link href="http://kinghom.github.com"/>
- <updated>2012-06-15T09:57:00+08:00</updated>
+ <updated>2013-04-10T18:00:20+08:00</updated>
  <id>http://kinghom.github.com</id>
  <author>
-   <name>King Hung</name>
+   <name>HJKing</name>
    <email>hon9jin@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Jekyll Help</title>
+   <link href="http://kinghom.github.com/2012/10/09/jekyll-help"/>
+   <updated>2012-10-09T00:00:00+08:00</updated>
+   <id>http://kinghom.github.com/2012/10/09/jekyll-help</id>
+   <content type="html">&lt;p&gt;Read &lt;a href='http://jekyllbootstrap.com/usage/jekyll-quick-start.html'&gt;Jekyll Quick Start&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Complete usage and documentation available at: &lt;a href='http://jekyllbootstrap.com'&gt;Jekyll Bootstrap&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id='update_author_attributes'&gt;Update Author Attributes&lt;/h2&gt;
+
+&lt;p&gt;In &lt;code&gt;_config.yml&lt;/code&gt; remember to specify your own data:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;title : My Blog =)
+
+author :
+  name : Name Lastname
+  email : blah@email.test
+  github : username
+  twitter : username&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The theme should reference these variables whenever needed.&lt;/p&gt;
+
+&lt;h2 id='sample_posts'&gt;Sample Posts&lt;/h2&gt;
+
+&lt;p&gt;This blog contains sample posts which help stage pages and blog data. When you don&amp;#8217;t need the samples anymore just delete the &lt;code&gt;_posts/core-samples&lt;/code&gt; folder.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ rm -rf _posts/core-samples&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Here&amp;#8217;s a sample &amp;#8220;posts list&amp;#8221;.&lt;/p&gt;
+&lt;ul class='posts'&gt;
+  
+    &lt;li&gt;&lt;span&gt;09 Oct 2012&lt;/span&gt; &amp;raquo; &lt;a href='/2012/10/09/jekyll-help'&gt;Jekyll Help&lt;/a&gt;&lt;/li&gt;
+  
+    &lt;li&gt;&lt;span&gt;15 Jun 2012&lt;/span&gt; &amp;raquo; &lt;a href='/2012/06/15/install-redmine-on-centos-5'&gt;install redmine on CentOS 5&lt;/a&gt;&lt;/li&gt;
+  
+    &lt;li&gt;&lt;span&gt;14 Jun 2012&lt;/span&gt; &amp;raquo; &lt;a href='/2012/06/14/hello-world'&gt;Hello world&lt;/a&gt;&lt;/li&gt;
+  
+    &lt;li&gt;&lt;span&gt;29 Dec 2011&lt;/span&gt; &amp;raquo; &lt;a href='/lessons/2011/12/29/jekyll-introduction'&gt;Jekyll Introduction&lt;/a&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+&lt;h2 id='todo'&gt;To-Do&lt;/h2&gt;
+
+&lt;p&gt;This theme is still unfinished. If you&amp;#8217;d like to be added as a contributor, &lt;a href='http://github.com/plusjade/jekyll-bootstrap'&gt;please fork&lt;/a&gt;! We need to clean up the themes, make theme usage guides with theme-specific markup examples.&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>install redmine on CentOS 5</title>
@@ -106,8 +152,8 @@
 |   |-- default.html
 |   |-- post.html
 |-- _posts
-|   |-- 20011-10-25-open-source-is-good.markdown
-|   |-- 20011-04-26-hello-world.markdown
+|   |-- 2011-10-25-open-source-is-good.markdown
+|   |-- 2011-04-26-hello-world.markdown
 |-- _site
 |-- index.html
 |-- assets

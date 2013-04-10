@@ -1,4 +1,4 @@
 
 # My Blog
-Based on [Jekyll-Bootstrap](https://github.com/plusjade/jekyll-bootstrap)
+Based on [Jekyll-Bootstrap 0.3.0](https://github.com/plusjade/jekyll-bootstrap)
 
