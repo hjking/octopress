@@ -1,0 +1,18 @@
+---
+layout: page
+title: Photos
+header: Posts By Photos
+group: navigation
+---
+{% include JB/setup %}
+
+<script type="text/javascript" src="/assets/javascripts/instafeed.min.js"></script>
+
+<script type="text/javascript">
+    var userFeed = new Instafeed({
+        get: 'user',
+        userId: kinghom,
+        accessToken: 'YOUR_ACCESS_TOKEN'
+    });
+    userFeed.run();
+</script>
