@@ -3,5 +3,8 @@ layout: post
 title: "test"
 date: 2014-04-10 12:54:39 +0800
 comments: true
-categories: 
+categories:
 ---
+
+测试一下而已
+just a test post

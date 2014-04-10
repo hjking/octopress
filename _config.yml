@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://kinghom.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: My Tech Blog
+subtitle: Long Road to Eden.
+author: Hong Jin
 simple_search: https://www.google.com/search
 description:
 
@@ -92,6 +92,10 @@ delicious_count: 3
 # Disqus Comments
 disqus_short_name:
 disqus_show_comment_count: false
+
+# duoshuo comments
+duoshuo_comments: true
+duoshuo_short_name: kinghom
 
 # Google Analytics
 google_analytics_tracking_id:
